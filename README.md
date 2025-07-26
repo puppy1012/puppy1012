@@ -83,6 +83,6 @@ AI와 백엔드를 접목한 서비스 구현에 열정을 가지고 있습니�
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=puppy1012&layout=compact&theme=great-gatsby&langs_count=8" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=puppy1012&layout=compact&theme=chartreuse-dark&langs_count=8" />
 
 </div>
