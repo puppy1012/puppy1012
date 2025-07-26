@@ -1,8 +1,7 @@
-<img src="https://cdn.discordapp.com/attachments/973187818971074580/1006256043921264700/SHANAduck_mp4_1.gif" width="100%"/>
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=e7b0e8&height=180&text=Back-End%20Oriented%20Developer&animation=fadeIn&fontColor=ffffff&fontSize=40" />
+</div>
 
-<h1 align="center">
-Back-End Oriented Full-Stack Developer 초묨 (Chomyon)
-</h1>
 
 <br/>
 
@@ -41,12 +40,7 @@ Back-End Oriented Full-Stack Developer 초묨 (Chomyon)
   <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white">
 </div>
 
----
-
-
-
-
-
+<div align="center">
 
 ## <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/d7c55ba8-8a31-41ed-b440-2dcb03917a29" />  About Me
 
@@ -54,25 +48,40 @@ Back-End Oriented Full-Stack Developer 초묨 (Chomyon)
 꾸준한 학습과 실습을 통해 **실무 중심 역량**을 쌓고 있으며,  
 AI와 백엔드를 접목한 서비스 구현에 열정을 가지고 있습니다.
 
-- 🎯 목표: **Spring Boot 기반 백엔드** 취업
-- 💡 준비 중: Java + Spring Boot 기반 백엔드 / 코딩테스트 / 배포 / CS 면접 준비
-- 🛠 주요 경험: MSA, Docker, AWS, MySQL, Redis, REST API, Git 협업
+🎯 목표: **Spring Boot 기반 백엔드** 취업  
+💡 준비 중: Java + Spring Boot 기반 백엔드 / 코딩테스트 / 배포 / CS 면접 준비  
+🛠 주요 경험: MSA, Docker, AWS, MySQL, Redis, REST API, Git 협업  
 
-> **하나만 더를 외치며, 실전과 연결되는 개발을 추구합니다.**
+ **하나만 더 발전을 원하며, 실전과 연결되는 개발을 추구합니다.**
+
+</div>
+
+---
+
+<div align="center">
+
+<h2>🗂 Blog & Contact</h2>
+
+<a href="https://velog.io/@puppy1012" target="_blank">
+  <img src="https://img.shields.io/badge/Dev%20Blog-000000?style=for-the-badge&logo=Velog&logoColor=white"/>
+</a>
+
+<a href="mailto:puppy1012@naver.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=Naver&logoColor=green"/>
+</a>
+
+</div>
 
 ---
 
-## 🗂 Blog & Contact
-
-<a href="https://velog.io/@puppy1012" target="_blank"><img src="https://img.shields.io/badge/Dev%20Blog-000000?style=for-the-badge&logo=Velog&logoColor=white"/></a>
-<a href="mailto:puppy1012@naver.com" target="_blank"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=Naver&logoColor=green"/></a>
-
----
+<div align="center">
 
 ## 📊 GitHub Stats
 
-![초묨's GitHub stats](https://github-readme-stats.vercel.app/api?username=puppy1012&show_icons=true&theme=buefy&bg_color=ffffff&title_color=000000&text_color=333333)
+<img src="https://github-readme-stats.vercel.app/api?username=puppy1012&show_icons=true&theme=chartreuse-dark" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=puppy1012&layout=compact&theme=great-gatsby&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=puppy1012&layout=compact&theme=great-gatsby&langs_count=8" />
+
+</div>
