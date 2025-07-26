@@ -76,5 +76,3 @@ AI와 백엔드를 접목한 서비스 구현에 열정을 가지고 있습니�
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=puppy1012&layout=compact&theme=great-gatsby&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-
-<img src="https://cdn.discordapp.com/attachments/973187818971074580/1006254770857705623/duck_banner2.png" width="100%"/>
