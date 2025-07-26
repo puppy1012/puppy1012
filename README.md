@@ -36,8 +36,9 @@
   <br/>
 
   <!-- Tools -->
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-313131?style=for-the-badge&logo=GitHub&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white">
+  <img src="https://img.shields.io/badge/Pycharm-232323?style=for-the-badge&logo=Pycharm&logoColor=white">
 </div>
 
 <div align="center">
